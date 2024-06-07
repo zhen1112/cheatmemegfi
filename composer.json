@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rmccue/requests": "^1.7",
+        "kriswallsmith/buzz": "^0.15.0"
+    }
+}
